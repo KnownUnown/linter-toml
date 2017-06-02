@@ -3,7 +3,7 @@
   "main": "./lib/linter-toml",
   "version": "0.1.0",
   "private": true,
-  "description": "A Linter interface for TOML",
+  "description": "A linter for toml",
   "keywords": [
     "linter",
     "toml"
